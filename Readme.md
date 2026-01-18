@@ -14,7 +14,7 @@
 
 ```Bash
 
-cd your-repo-name
+cd Chor-Chithi
 
 ```
 
